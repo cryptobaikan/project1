@@ -4,6 +4,3 @@
 sdkjvksdjfklsdjfsfkjsdlfkjlsakdf
 sdkjflkdsajflsjfljsadf
 
-[lorem ipsum][def]
-
-[def]: http://google.comgit
