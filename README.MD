@@ -4,4 +4,3 @@
 sdkjvksdjfklsdjfsfkjsdlfkjlsakdf
 sdkjflkdsajflsjfljsadf
 
-[lorem ipsum](http://google.com)
