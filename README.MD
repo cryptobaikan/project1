@@ -4,4 +4,6 @@
 sdkjvksdjfklsdjfsfkjsdlfkjlsakdf
 sdkjflkdsajflsjfljsadf
 
-[lorem ipsum](http://google.com)
+[lorem ipsum][def]
+
+[def]: http://google.comgit
